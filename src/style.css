@@ -1,0 +1,70 @@
+body {
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  color: aquamarine;
+  font-family: 'Lilita One', cursive;
+  padding-left: 5%;
+  padding-right: 5%;
+  justify-items: center;
+  height: 100%;
+}
+
+.board {
+  display: flex;
+  flex-direction: row;
+  justify-items: center;
+}
+
+.Leaderboard {
+  height: max-content;
+  margin: 0;
+}
+
+.Rbutton {
+  color: aquamarine;
+  height: max-content;
+  width: max-content;
+  background-color: dimgrey;
+  border-radius: 20%;
+}
+
+.ScoresTittle {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: 100%;
+}
+
+.Recent {
+  padding: 0;
+  padding-right: 10px;
+  margin: 0;
+}
+
+.ScoreList {
+  list-style: none;
+  border: 2px solid #89e9f8;
+  color: cyan;
+  padding: 10%;
+}
+
+.AddScores,
+.Scores {
+  width: 40%;
+  height: 372px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Scores {
+  width: 100%;
+  align-items: start;
+}
+
+.ScoreInput {
+  background-color: rgba(105, 105, 105, 0.335);
+}
