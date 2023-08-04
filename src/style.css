@@ -7,11 +7,14 @@ body {
     padding-left: 5%;
     padding-right: 5%;
     justify-items: center;
+    height: 100%;
   }
   
   .Scores {
     width: 80%;
-    height: 80%;
+    height: 372px;
+    align-items: center;
+    justify-content: center;
   }
   
   .Rbutton {
@@ -43,7 +46,11 @@ body {
   
   .AddScores {
     width: 40%;
-    height: 40%;
+    height: 372px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
   
   .ScoreInput {
