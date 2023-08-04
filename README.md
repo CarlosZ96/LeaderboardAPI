@@ -1,8 +1,6 @@
 <a name="readme-top"></a>
 
 <div align="center">
-   <img src="to-do-list.png" alt="logo" width="140"  height="auto" />
-  <br/>
   <h3><b>Leaderboard</b></h3>
 
 </div>
@@ -45,7 +43,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]Coming soon..
+-Coming soon..
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
