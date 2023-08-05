@@ -12,6 +12,8 @@ body {
 
 .Leaderboard {
   text-align: center;
+  height: max-content;
+  margin: 0;
 }
 
 .s1 {
@@ -22,11 +24,6 @@ body {
   display: flex;
   flex-direction: row;
   justify-items: center;
-}
-
-.Leaderboard {
-  height: max-content;
-  margin: 0;
 }
 
 .Rbutton {
