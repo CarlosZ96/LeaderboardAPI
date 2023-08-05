@@ -10,15 +10,20 @@ body {
   height: 100%;
 }
 
+.Leaderboard {
+  text-align: center;
+  height: max-content;
+  margin: 0;
+}
+
+.s1 {
+  width: 100%;
+}
+
 .board {
   display: flex;
   flex-direction: row;
   justify-items: center;
-}
-
-.Leaderboard {
-  height: max-content;
-  margin: 0;
 }
 
 .Rbutton {
