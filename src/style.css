@@ -10,7 +10,7 @@ body {
   height: 100%;
 }
 
-.s1{
+.s1 {
   border-right: 15px;
 }
 
@@ -23,6 +23,11 @@ body {
 .Leaderboard {
   height: max-content;
   margin: 0;
+  text-align: center;
+}
+
+.s1 {
+  width: 100%;
 }
 
 .Rbutton {
