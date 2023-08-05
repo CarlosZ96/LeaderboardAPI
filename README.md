@@ -25,9 +25,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖To-Do List📖 <a name="about-project"></a>
+# 📖Leaderboard📖 <a name="about-project"></a>
 
-**To-Do List<br>Organize your time with this simple application, which will allow you to manage your own to-do list.**
+**Leaderboard<br>Save and compare scores that you could submit right here.**
 
 ## 🛠 Built With <a name="built-with"></a>
 
